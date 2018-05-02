@@ -1,6 +1,8 @@
 # groupie-bug-same-layout-sample
 
-Sample to reproduce a bug in Groupie
+Sample to reproduce a bug in Groupie.
+
+[Bug](https://github.com/lisawray/groupie/issues/135)
 
 ## License
 
